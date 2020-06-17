@@ -6,11 +6,11 @@ https://github.com/Imgur
 
 ---
 ### Online WebStorage directory オンライン ストレージ　（サンプル用）
-Instead of your own directory - ./img/background.jpg, uploading that images and then set down this url - https://tkgcci.imgur.com/all
+Instead of your own directory - ./img/background.jpg, uploading that images and then set down this url - https://imgur.com/lVtazJc
 
 Account1 Repository img-Storages
 #### tkgcci linked fb
-https://tkgcci.imgur.com/all
+https://imgur.com/lVtazJc
 
 Account2
 ...
