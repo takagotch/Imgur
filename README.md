@@ -5,6 +5,8 @@ https://imgur.com/
 https://github.com/Imgur
 
 ---
+### Online WebStorage directory
+Instead of your own directory - ./img/background.jpg, uploading that images and then set down this url - https://tkgcci.imgur.com/all
 
 Account1 Repository img-Storages
 #### tkgcci linked fb
